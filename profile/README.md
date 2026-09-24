@@ -1,14 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./beengala-wordmark-dark.png">
-    <img src="./beengala-wordmark.png" alt="Beengala" width="280">
-  </picture>
-</p>
-
-<p align="center"><strong>Tell us how you want to live. We'll find where.</strong></p>
-
----
-
 Beengala applies artificial intelligence to real estate. You describe the life you want — how far
 from work, how much light, what the street should feel like — and it searches for you, books the
 visit and hands the case to an accredited broker, with everything it already knows.
